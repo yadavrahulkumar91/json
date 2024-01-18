@@ -1,3 +1,18 @@
 {
-    
+    "introduction":{
+        "definition":"Uncoordinated growth of the tissue persisting even after the cessation of the stimulus which evoked the change.",
+        "composition":{
+            "parenchyma":{
+                "composition":[
+                    "Proliferating neoplastic cells"
+                ]
+            },
+            "stroma":{
+                "composition":[
+                    "Connective tissue",
+                    "Blood vessels"
+                ]
+            }
+        }
+    }
 }

@@ -1,0 +1,114 @@
+{
+    "introduction": {
+        "name": "Anti hypertensive drugs"
+    },
+    "classification": {
+        "Diuretics": {
+            "Thiazides": [
+                "Hydrochlorothiazide",
+                "Chlorthalidone",
+                "Indapamide"
+            ],
+            "High ceiling": [
+                "Furosemide"
+            ],
+            "Aldosterone antagonist": [
+                "Spironolactone",
+                "Eplerenone"
+            ]
+        },
+        "Renin-angiotensin system inhibitors": {
+            "ACE inhibitors": [
+                "Captopril",
+                "Enalapril",
+                "Fosinopril",
+                "Lisinopril",
+                "Perindopril",
+                "Quinapril",
+                "Ramipril",
+                "Trandolapril"
+            ],
+            "Angiotensin receptor blockers (ARBs)": [
+                "Losartan",
+                "Candesartan",
+                "Valsartan",
+                "Telmisartan",
+                "Irbesartan",
+                "Olmesartan"
+            ],
+            "Direct renin inhibitor": [
+                "Aliskiren"
+            ]
+        },
+        "Sympathetic inhibitors": {
+            "α-adrenergic blockers": [
+                "Prazosin",
+                "Terazosin",
+                "Doxazosin",
+                "Phentolamine"
+            ],
+            "β-adrenergic blockers": [
+                "Propranolol",
+                "Metoprolol",
+                "Atenolol"
+            ],
+            "α+β adrenergic blockers": [
+                "Labetalol",
+                "Carvedilol"
+            ],
+            "Central sympatholytics": [
+                "Clonidine",
+                "Methyldopa"
+            ]
+        },
+        "Calcium channel blockers": {
+            "Phenylalkylamine": [
+                "Verapamil"
+            ],
+            "Benzothiazepine": [
+                "Diltiazem"
+            ],
+            "Dihydropyridines": [
+                {
+                    "Nifedipine": {
+                        "adverse_effects": [
+                            "Flushing",
+                            "Ankle edema",
+                            {
+                                "cariac": [
+                                    "Hypotension",
+                                    "Palpitation",
+                                    "Reflex tachycardia"
+                                ]
+                            },
+                            {
+                                "CNS": [
+                                    "Headache",
+                                    "Drowsiness",
+                                    "Nausea"
+                                ]
+                            },
+                            "Urine voiding difficult in male",
+                            "Hamper diabetic control by decreasing insulin release"
+                        ]
+                    }
+                },
+                "Amlodipine",
+                "Cilnidipine",
+                "Felodipine",
+                "Lacidipine",
+                "Lercanidipine",
+                "Benidipine",
+                "Nicardipine"
+            ]
+        },
+        "Vasodilators":{
+            "Arteriolar dilator": [
+                "Hydralazine"
+            ],
+            "Arteriolar + Venodilator": [
+                "Sodium nitroprusside"
+            ]
+        }
+    }
+}

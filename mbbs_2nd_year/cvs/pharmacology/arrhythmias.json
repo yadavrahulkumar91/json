@@ -1,0 +1,101 @@
+{
+    "introduction":{
+        "name":"Anti-arrhythmic Drugs"
+    },
+    "classification":[
+        {
+            "class":"Class-I",
+            "other_name":"Membrane stabilizing agents",
+            "other_name_1":"Na+ channel blocker",
+            "part":[
+                {
+                    "name":"Moderately decrease dv/dt of 0 phase",
+                    "part":[
+                        {
+                            "name":"Quinidine"
+                        },
+                        {
+                            "name":"Procainamide"
+                        },
+                        {
+                            "name":"Disopyramide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Little decrease dv/dt of 0 phase",
+                    "part": [
+                        {
+                            "name": "Lidocaine"
+                        },
+                        {
+                            "name": "Mexiletine"
+                        },
+                        {
+                            "name": "Tocainide"
+                        }
+                    ]
+                },
+                {
+                    "name": "Marked decrease dv/dt of 0 phase",
+                    "part": [
+                        {
+                            "name": "Propafenone"
+                        },
+                        {
+                            "name": "Encainide"
+                        },
+                        {
+                            "name": "Flecainide"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "Class-II",
+            "other_name": "β-blocker",
+            "part": [
+                {
+                    "name": "Propranolol"
+                },
+                {
+                    "name":"Esmolol"
+                },
+                {
+                    "name":"Sotalol"
+                }
+            ]
+        },
+        {
+            "class": "Class-III",
+            "other_name": "Agent widening AP (prolong repolarization and ERP)",
+            "part": [
+                {
+                    "name":"Amiodarone"
+                },
+                {
+                    "name":"Bretylium"
+                },
+                {
+                    "name":"Dofetilide"
+                },
+                {
+                    "name":"Ibutilide"
+                }
+            ]
+        },
+        {
+            "class": "Class-IV",
+            "other_name": "Calcium channel blockers",
+            "part": [
+                {
+                    "name": "Verapamil"
+                },
+                {
+                    "name":"Diltiazem"
+                }
+            ]
+        }
+    ]
+}

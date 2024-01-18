@@ -1,0 +1,11 @@
+{
+    "introduction":{
+        "definition":"C++ is the object oriented language which has higher speed and reliabilyt.",
+        "characteristics":[
+            "Obect",
+            "Class",
+            "Data hiding",
+            "Encapsulation"
+        ]
+    }
+}

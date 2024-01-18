@@ -1,0 +1,199 @@
+{
+    "introduction": "",
+    "classification": [
+        {
+            "name": "Drugs with +ve ionotropic effect",
+            "parts": [
+                {
+                    "name": "Cardiac glycosides",
+                    "chemically": [
+                        {
+                            "name": "sugar molecule",
+                            "role": {
+                                "name": "Pharmacological profile",
+                                "example": [
+                                    "Lipid solubility",
+                                    "Cell permeability"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "non-sugar molecule"
+                        }
+                    ],
+                    "on_hydrolysis": "sugar molecule + non-sugar molecule",
+                    "parts": [
+                        {
+                            "name": "Digoxin",
+                            "other_name": "Digitalis",
+                            "pharmacokinetics": {
+                                "oral_absorption": "60-80%",
+                                "distribution": [
+                                    "tissue",
+                                    "CNS"
+                                ],
+                                "half_life": "36-40 hours",
+                                "excretion": {
+                                    "urine": "2/3"
+                                },
+                                "MOA": [
+                                    "Selectively binds to extracellular face of the cardiac cell membrane associated Na+K+ ATPase",
+                                    "Inhibits it",
+                                    "Progressive accumulation of Na+ intracellularly",
+                                    [
+                                        "Increased intracellular Na+ inhibits Na+Ca++ exchanger",
+                                        "Na+Ca++ exchanger normally brings Na+ inside and causes Ca++ outflux"
+                                    ],
+                                    "Accumulation of Ca++ inside cell",
+                                    "During depolarization, further more Ca++ ions enter the cell through voltage sensitive L type Ca++ channels",
+                                    "This triggers release of large amount of Ca++ stored in sarcoplasmic reticulum through Ryanodine Ca++ channel",
+                                    "Increase in cytoplasmic Ca++ concentration",
+                                    "Activates troponin C on myofibrils",
+                                    "Increased contractility"
+                                ],
+                                "pharmacological_actions": {
+                                    "contraction_force": "Dose dependent",
+                                    "tone": "not affected by therapeutic dose",
+                                    "rate": "decreased by digitalis"
+                                },
+                                "adverse_effects": {
+                                    "CVS": {
+                                        "cardiac": [
+                                            "Bradycardia",
+                                            "Partial or complete heart block",
+                                            "Atrial or Ventricular extra systole",
+                                            "Ventricular fibrillation",
+                                            "Fatal cardiac arrhythmia"
+                                        ]
+                                    },
+                                    "GIT": [
+                                        "Anorexia",
+                                        "Nausea",
+                                        "Vomiting",
+                                        "Diarrhoea",
+                                        "Abdominal cramps"
+                                    ],
+                                    "CNS": [
+                                        "Headache",
+                                        "Fatigue",
+                                        "Neuralgia",
+                                        "Blurred vision",
+                                        "Loss of color perception"
+                                    ],
+                                    "endocrine": [
+                                        "Gynaecomastia"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "name": "Digitoxin"
+                        },
+                        {
+                            "name": "Ouabain"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bipyridines",
+                    "other_name": "Phosphodiesterase inhibitor",
+                    "parts": [
+                        {
+                            "name": "Amrinone"
+                        },
+                        {
+                            "name": "Milrinone"
+                        },
+                        {
+                            "name": "Levosimendan"
+                        }
+                    ]
+                },
+                {
+                    "name": "β-adrenergic agonist",
+                    "parts": [
+                        {
+                            "name": "Dopamine"
+                        },
+                        {
+                            "name": "Dobutamine"
+                        },
+                        {
+                            "name": "Dopexamine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drugs without +ve ionotropic effect",
+            "parts": [
+                {
+                    "name": "Diuretics",
+                    "parts": [
+                        {
+                            "name": "Bumetanide"
+                        },
+                        {
+                            "name": "Furosemide"
+                        },
+                        {
+                            "name": "Hydrochlorothiazide"
+                        },
+                        {
+                            "name": "Metolazone"
+                        },
+                        {
+                            "name": "Spironolactone"
+                        }
+                    ]
+                },
+                {
+                    "name": "ACE inhibitors",
+                    "parts": [
+                        {
+                            "name": "Enalapril"
+                        },
+                        {
+                            "name": "Lisinopril"
+                        },
+                        {
+                            "name": "Ramipril"
+                        }
+                    ]
+                },
+                {
+                    "name": "β-blockers",
+                    "parts": [
+                        {
+                            "name": "Carvedilol"
+                        },
+                        {
+                            "name": "Metoprolol"
+                        },
+                        {
+                            "name": "Bisoprolol"
+                        }
+                    ]
+                },
+                {
+                    "name": "Vasodilator",
+                    "parts": [
+                        {
+                            "name": "Hydralazine"
+                        },
+                        {
+                            "name": "Sodium nitroprusside"
+                        },
+                        {
+                            "name": "Isosorbidedi nitrate"
+                        },
+                        {
+                            "name": "Nesiritide"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
